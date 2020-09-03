@@ -1,0 +1,29 @@
+﻿Column title,Description of data
+hydroID (GLAHF database),Unique identifier for individual tributary watersheds. HydroID numbers are directly from the Great Lakes Aquatic Habitat Framework database (glahf.org)
+bottle/vial ID,Identifying vial labels for field samples. Bottle ID coincides with the order that the sample was collected.
+stream name,The name of the tributary. 'No name' indicates that were unable to find an official tributary name. 
+TPmgL,Total phosphorus concentration (mg/L)
+TNmgL,Total nitrogen concentration (mg/L)
+SRPmgL,Soluble reactive phosphorus concentration (mg/L)
+NitratemgL,Nitrate+nitrite concentration (mg/L)
+NH4mgL,ammonium concentration (mg/L)
+DINmgL,Nitrate+nitrite+ammonium concentration (mg/L)
+Flowlitersday,Discharge in liters/day for the 5 day period around the sampling event
+TPload_kgday,Total phosphorus load (kg/day)
+TNload_kgday,Total nitrogen load (kg/day)
+SRP percent of TP,The percentage of TP composed of SRP ((SRP/TP)*100)
+DIN percent of TN,The percentage of TN composed of DIN ((DIN/TN)*100)
+Load N:P,Molar TN/Molar TP
+urban,The percentage of the watershed considered urban
+barren,The percentage of the watershed considered barren
+forest,The percentage of the watershed considered forest
+shrubland,The percentage of the watershed considered shrubland
+herbaceous,The percentage of the watershed considered herbaceous 
+agriculture,The percentage of the watershed considered agriculture
+wetland,The percentage of the watershed considered wetland
+Strahler order,The strahler order of the tributary
+Areakm2,The area of the watershed (km2)
+damspresent,"Yes' indicates that there are dams within the watershed, 'No' indicates the absence of dams within the watershed"
+percent water,The contribution a single tributary made to the total tributary derived hydraulic load during the sampling period
+percent TP,The contribution a single tributary made to the total tributary derived TP load during the sampling period
+percent TN,The contribution a single tributary made to the total tributary derived TN load during the sampling period
